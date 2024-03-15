@@ -1,8 +1,14 @@
-#include<stdio.h>
-int main(void)
+
+// this is a header file 
+#include <iostream>
+// the following line access the standard functionalities
+using namespace std;
+
+int main ()
 {
-    printf("Hello! C++ Class.\n");
+    // show some thing on the screen
+    cout << "Hello world";
+
+    
     return 0;
 }
-
-// g++ -o outFile inputFile 
