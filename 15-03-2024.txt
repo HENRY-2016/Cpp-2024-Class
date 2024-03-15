@@ -1,6 +1,6 @@
 
 
-## Program Structure
+## Program Structure  
     #include <iostream>
     using namespace std;
     int main()
@@ -16,9 +16,5 @@
         4. cout <<  ::  Displayed text on the screen.
         6. return 0;  ::terminates main() function and causes it to return the value 0 to the calling process.
 
-    Compile & Execute C++
-        Linux
-            $ g++ main.cpp
-            $ ./main
     Task
-        Create a program to show your Name, RegNumber, your course and more 
+        Work on the 08-03-2024 assignment 
