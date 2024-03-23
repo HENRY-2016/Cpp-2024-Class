@@ -39,13 +39,13 @@
         3. int main()  :: is the main function where program execution begins.
         4. cout <<  ::  Displayed text on the screen.
         6. return 0;  ::terminates main() function and causes it to return the value 0 to the calling process.
-
-    Compile & Execute C++
-        Linux
-            $ g++ main.cpp
-            $ ./main
+as
     Task
         Create a program to show your Name, RegNumber, your course and more 
+
+    Standard Template Library (STL): Familiarity with the Standard Template Library and its components such as containers (vectors, lists, maps), iterators, algorithms (sorting, searching), and generic programming.
+
+    View compiled source code
 
 ## Comments 
     Single-line Comments
